@@ -13,6 +13,8 @@ body {
 .wrapper {
     width: 1280px;
     margin: 50px auto;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 header {
     position: relative;
