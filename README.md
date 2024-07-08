@@ -1,4 +1,7 @@
 # react-project-shop
+
+Here's my first try to make an ONLINE SHOP WEBSITE - using React Library
+
 Github-pages
 
 What is done by the moment: 
